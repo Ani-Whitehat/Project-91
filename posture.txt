@@ -1,0 +1,40 @@
+- Is the goal clear for the user? 
+Yes, The goal is to maintain a Good posture while looking at the screen
+
+- Does the user clearly know what they are coming on the app for? 
+They are coming to the app so that the app will give feedback which will help them maintain a good posture in front of the computer
+
+- Do they know what they have to do, when they are on your app?
+They have to allow camera permission and the app will start giving them feedback
+
+- Does the user get clear feedback on their actions?
+Yes, the app will monitor the posture of the user and give them periodic feedback
+
+- Do they know if they have been able to do something successfully or not?
+Yes, they will be able to see feedback and correct their posture
+
+- What is the ideal user behavior we want on the app?
+Login not needed.The user has to give camera permission and then the user will get feedback to correct their posture, which will make the healthy
+
+- Does the app give feedback to encourage that?
+Yes, the app gives feedback to encourage the correct user behaviour
+
+- What are the rules under which the app operates?
+Camera permission, Computer should have a working camera, should have good lighting
+
+- Are these rules clearly laid down for the user?
+yes, these rules are laid down in the guidelines
+
+- Does the user know that they have to operate with these constraints?
+Yes, the rules are laid out in the guidelines
+
+- What are the obstacles / challenges for the user?
+If the user doesn't have a computer with a good, working camera, then the app will not work.
+There should be enough storage to install the application.
+There should be an object within the camera range.
+Good lighting needed.
+
+
+
+
+
